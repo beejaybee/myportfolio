@@ -1,7 +1,17 @@
 
 export const projectData = [
+    
     {
         id: 1,
+        title: "Facebook Messenger Clone",
+        link: "https://facebook-messenger-clone-52568.web.app/",
+        gitLink: "https://github.com/beejaybee/messenger-clone-firebase",
+        image: "img/facefire.png",
+        info: "This is a simple messenging app, created with React, @Material-ui, and firebase "
+    },
+
+    {
+        id: 2,
         title: "Beejay Movies",
         link: "https://beejaymovies2.netlify.app",
         gitLink: "https://github.com/beejaybee/beejayMovies",
@@ -10,7 +20,7 @@ export const projectData = [
     },
 
     {
-        id: 2,
+        id: 3,
         title: "Phone Store",
         link: "https://myreactphonestore.netlify.app",
         gitLink: "https://github.com/beejaybee/phone-store",
@@ -19,7 +29,7 @@ export const projectData = [
     },
 
     {
-        id: 3,
+        id: 4,
         title: "Beejay videos",
         link: "https://beejayvideos.netlify.app",
         gitLink: "https://github.com/beejaybee/beejayvideos",
@@ -28,7 +38,7 @@ export const projectData = [
     },
 
     {
-        id: 4,
+        id: 5,
         title: "API-pics",
         link: "https://beejaybee.github.io/api-pics",
         gitLink: "https://github.com/beejaybee/api-pics",
@@ -37,7 +47,7 @@ export const projectData = [
     },
 
     {
-        id: 5,
+        id: 6,
         title: "Robo-Captain",
         link: "https://beejaybee.github.io/robocaptain",
         gitLink: "https://github.com/beejaybee/robocaptain",
@@ -46,7 +56,7 @@ export const projectData = [
     },
 
     {
-        id: 6,
+        id: 7,
         title: "Moving Car",
         link: "https://beejaybee.github.io/Moving-Car",
         gitLink: "https://github.com/beejaybee/Moving-Car",
@@ -55,7 +65,7 @@ export const projectData = [
     },
 
     {
-        id: 7,
+        id: 8,
         title: "Shopping Store",
         link: "https://beejaystore.netlify.app",
         gitLink: "https://github.com/beejaybee/shopping-cart-typecript",
@@ -64,7 +74,7 @@ export const projectData = [
     },
 
     {
-        id: 8,
+        id: 9,
         title: "Simple Birthday List",
         link: "https://simplebirthday.netlify.app",
         gitLink: "https://github.com/beejaybee/birthdayList",
@@ -73,7 +83,7 @@ export const projectData = [
     },
 
     {
-        id: 9,
+        id: 10,
         title: "Simple Tour",
         link: "https://beejaytour.netlify.app",
         gitLink: "https://github.com/beejaybee/basic-tour",
@@ -82,7 +92,7 @@ export const projectData = [
     },
 
     {
-        id: 10,
+        id: 11,
         title: "Simple Review",
         link: "https://beejayreview.netlify.app",
         gitLink: "https://github.com/beejaybee/review",
@@ -92,7 +102,7 @@ export const projectData = [
 
     
     {
-        id: 11,
+        id: 12,
         title: "Food Menu",
         link: "https://beejayfood.netlify.app",
         gitLink: "https://github.com/beejaybee/foodmenu",
@@ -101,7 +111,7 @@ export const projectData = [
     },
 
     {
-        id: 12,
+        id: 13,
         title: "Project Tab",
         link: "https://beejaytabs.netlify.app",
         gitLink: "https://github.com/beejaybee/tabs",
@@ -110,7 +120,7 @@ export const projectData = [
     },
 
     {
-        id: 13,
+        id: 14,
         title: "Review Slider",
         link: "https://beejayslider.netlify.app",
         gitLink: "https://github.com/beejaybee/slider",
@@ -119,7 +129,7 @@ export const projectData = [
     },
 
     {
-        id: 14,
+        id: 15,
         title: "Lorem Generator",
         link: "https://beejaylorem.netlify.app",
         gitLink: "https://github.com/beejaybee/lorem-generator",
@@ -128,7 +138,7 @@ export const projectData = [
     },
 
     {
-        id: 15,
+        id: 16,
         title: "Color Generator",
         link: "https://beejaycolors.netlify.app",
         gitLink: "https://github.com/beejaybee/color-generator",
@@ -137,7 +147,7 @@ export const projectData = [
     },
 
     {
-        id: 16,
+        id: 17,
         title: "Accordian",
         link: "https://beejayaccordian.netlify.app",
         gitLink: "https://github.com/beejaybee/accordian",
@@ -146,7 +156,7 @@ export const projectData = [
     },
 
     {
-        id: 17,
+        id: 18,
         title: "Grocery Bud",
         link: "https://beejaygrocery.netlify.app",
         gitLink: "https://github.com/beejaybee/grocery",
@@ -155,7 +165,7 @@ export const projectData = [
     },
 
     {
-        id: 18,
+        id: 19,
         title: "Navbar",
         link: "https://beejaynavbar.netlify.app",
         gitLink: "https://github.com/beejaybee/navbar",
@@ -164,7 +174,7 @@ export const projectData = [
     },
 
     {
-        id: 19,
+        id: 20,
         title: "Sidebar",
         link: "https://beejaysidebar.netlify.app",
         gitLink: "https://github.com/beejaybee/sidebar",
@@ -173,7 +183,7 @@ export const projectData = [
     },
 
     {
-        id: 20,
+        id: 21,
         title: "Submenu",
         link: "https://beejaysubmenu.netlify.app",
         gitLink: "https://github.com/beejaybee/submenu",
@@ -182,7 +192,7 @@ export const projectData = [
     },
 
     {
-        id: 21,
+        id: 22,
         title: "Cart Reducer",
         link: "https://beejaycart.netlify.app",
         gitLink: "https://github.com/beejaybee/cart-reducer",
